@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xoán Araújo</h1>
 <h3 align="center">Junior software developer from Spain</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot**🍃
 
 - 📫 How to reach me **xoanaraujodev@gmail.com**
 
