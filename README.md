@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Xoán Araújo</h1>
 <h3 align="left">Junior software developer from Spain</h3>
-<p>New graduate in cross-platform application development at <a href="www.ieschandomonte.edu.es/ies/">IES Chan do Monte</a>, currently learning SpringBoot🍃!</p>
+<p>New graduate in cross-platform application development at <a href="www.ieschandomonte.edu.es/ies/">IES Chan do Monte</a>, <strong>currently learning SpringBoot</strong>🍃!</p>
 <p>📫 You can reach me via xoanaraujodev@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
