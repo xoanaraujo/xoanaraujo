@@ -19,5 +19,5 @@
 
   <h3 align="left">Currently learning:</h3>
 <p align="left"> 
-  <a> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="git" width="40" height="40"/> </a> 
 </p>
